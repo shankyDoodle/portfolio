@@ -1,3 +1,3 @@
 ## Portfolio Shashank Kaldate
 
-[Live](http://shankydoodle.com)
+[Live](https://shankydoodle.github.io/portfolio/)
